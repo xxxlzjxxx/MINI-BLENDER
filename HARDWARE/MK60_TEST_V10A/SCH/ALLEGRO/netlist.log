@@ -1,0 +1,76 @@
+{ Using PSTWRITER 16.6.0 d001Jan-06-2017 at 17:31:26 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "U8.11" ignored for U8: MAIN, 02 MCU (373.38, 228.60). Connecting pin to net "OUT3".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "U23.5" ignored for U23: MAIN, 05 POWER (81.28, 116.84). Connecting pin to net "+12V_OUT".
+#3 WARNING(ORCAP-36038): "No_connect" property on Pin "U8.9" ignored for U8: MAIN, 02 MCU (373.38, 228.60). Connecting pin to net "N16642000".
+#4 WARNING(ORCAP-36038): "No_connect" property on Pin "U8.10" ignored for U8: MAIN, 02 MCU (373.38, 228.60). Connecting pin to net "N16642088".
+#5 WARNING(ORCAP-36038): "No_connect" property on Pin "U8.13" ignored for U8: MAIN, 02 MCU (373.38, 228.60). Connecting pin to net "N16642088".
+#6 WARNING(ORCAP-36038): "No_connect" property on Pin "U5.5" ignored for U5: MAIN, 02 MCU (271.78, 134.62). Connecting pin to net "N11722728".
+#7 WARNING(ORCAP-36038): "No_connect" property on Pin "U5.8" ignored for U5: MAIN, 02 MCU (271.78, 134.62). Connecting pin to net "RST1".
+#8 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.90" ignored for U1: MAIN, 02 MCU (76.20, 17.78). Connecting pin to net "VOLT_TRAN_VERT_OE".
+#9 WARNING(ORCAP-36038): "No_connect" property on Pin "U7.5" ignored for U7: MAIN, 02 MCU (45.72, 190.50). Connecting pin to net "CLK_50M".
+#10 WARNING(ORCAP-36038): "No_connect" property on Pin "U9.34" ignored for U9: MAIN, 03 SWITCH (43.18, 48.26). Connecting pin to net "CLK_50M_SW".
+#11 WARNING(ORCAP-36038): "No_connect" property on Pin "U7.7" ignored for U7: MAIN, 02 MCU (45.72, 190.50). Connecting pin to net "CLK_50M_SW".
+#12 WARNING(ORCAP-36038): "No_connect" property on Pin "U24.6" ignored for U24: MAIN, 05 POWER (93.98, 187.96). Connecting pin to net "N16662114".
+#13 WARNING(ORCAP-36038): "No_connect" property on Pin "U24.7" ignored for U24: MAIN, 05 POWER (93.98, 187.96). Connecting pin to net "N16662114".
+#14 WARNING(ORCAP-36038): "No_connect" property on Pin "U24.5" ignored for U24: MAIN, 05 POWER (93.98, 187.96). Connecting pin to net "N16661988".
+#15 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.78" ignored for U1: MAIN, 02 MCU (76.20, 17.78). Connecting pin to net "PHOTOSW3".
+#16 WARNING(ORCAP-36038): "No_connect" property on Pin "U8.12" ignored for U8: MAIN, 02 MCU (373.38, 228.60). Connecting pin to net "PHOTOSW3".
+#17 WARNING(ORCAP-36038): "No_connect" property on Pin "U12.11" ignored for U12: MAIN, 04 BLDC (203.20, 71.12). Connecting pin to net "N16616240".
+#18 WARNING(ORCAP-36038): "No_connect" property on Pin "U8.8" ignored for U8: MAIN, 02 MCU (373.38, 228.60). Connecting pin to net "PHOTOSW2".
+#19 WARNING(ORCAP-36038): "No_connect" property on Pin "U12.13" ignored for U12: MAIN, 04 BLDC (203.20, 71.12). Connecting pin to net "N16616204".
+#20 WARNING(ORCAP-36038): "No_connect" property on Pin "U12.9" ignored for U12: MAIN, 04 BLDC (203.20, 71.12). Connecting pin to net "N16616260".
+#21 WARNING(ORCAP-36038): "No_connect" property on Pin "U12.8" ignored for U12: MAIN, 04 BLDC (203.20, 71.12). Connecting pin to net "N12420605".
+#22 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.4" ignored for U1: MAIN, 02 MCU (76.20, 17.78). Connecting pin to net "CTL_HEATER_1".
+#23 WARNING(ORCAP-36038): "No_connect" property on Pin "U12.10" ignored for U12: MAIN, 04 BLDC (203.20, 71.12). Connecting pin to net "N12420597".
+#24 WARNING(ORCAP-36038): "No_connect" property on Pin "U12.12" ignored for U12: MAIN, 04 BLDC (203.20, 71.12). Connecting pin to net "N12420589".
+#25 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.7" ignored for U1: MAIN, 02 MCU (76.20, 17.78). Connecting pin to net "CTL_HEATER_2".
+#26 WARNING(ORCAP-36038): "No_connect" property on Pin "U5.6" ignored for U5: MAIN, 02 MCU (271.78, 134.62). Connecting pin to net "WDI_INPUT_A".
+#27 WARNING(ORCAP-36038): "No_connect" property on Pin "U5.4" ignored for U5: MAIN, 02 MCU (271.78, 134.62). Connecting pin to net "N16779903".
+#28 WARNING(ORCAP-36038): "No_connect" property on Pin "U16.12" ignored for U16: MAIN, 04 BLDC (203.20, 205.74). Connecting pin to net "N16635398".
+#29 WARNING(ORCAP-36038): "No_connect" property on Pin "U16.13" ignored for U16: MAIN, 04 BLDC (203.20, 205.74). Connecting pin to net "N16636398".
+#30 WARNING(ORCAP-36038): "No_connect" property on Pin "U16.9" ignored for U16: MAIN, 04 BLDC (203.20, 205.74). Connecting pin to net "N16636466".
+#31 WARNING(ORCAP-36038): "No_connect" property on Pin "U16.11" ignored for U16: MAIN, 04 BLDC (203.20, 205.74). Connecting pin to net "N16636446".
+#32 WARNING(ORCAP-36038): "No_connect" property on Pin "U16.10" ignored for U16: MAIN, 04 BLDC (203.20, 205.74). Connecting pin to net "N16635402".
+#33 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.1" ignored for U1: MAIN, 02 MCU (76.20, 17.78). Connecting pin to net "UART1_TX".
+#34 WARNING(ORCAP-36038): "No_connect" property on Pin "U16.8" ignored for U16: MAIN, 04 BLDC (203.20, 205.74). Connecting pin to net "N16635406".
+#35 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.2" ignored for U1: MAIN, 02 MCU (76.20, 17.78). Connecting pin to net "UART1_RX".
+#36 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.3" ignored for U1: MAIN, 02 MCU (76.20, 17.78). Connecting pin to net "UART1_RD#".
+#37 WARNING(ORCAP-36006): Part Name "TMP_154254_CC7343_12_47UF_25V_7343" is renamed to "TMP_154254_CC7343_12_47UF_25V_7".
+#38 WARNING(ORCAP-36006): Part Name "TMP_154254_CC3528_12_47UF_10V_3528" is renamed to "TMP_154254_CC3528_12_47UF_10V_3".
+#39 WARNING(ORCAP-36006): Part Name "TMP_154254_CC7343_12_220UF_10V_7343" is renamed to "TMP_154254_CC7343_12_220UF_10V_".
+#40 WARNING(ORCAP-36006): Part Name "CAPT_100UF_3528_6R3V_10%_LXXXX_CAP-5R0-10X13_330UF_50V_10X13" is renamed to "CAPT_100UF_3528_6R3V_10%_LXXXX_".
+#41 WARNING(ORCAP-36006): Part Name "43650-0801_43650-0815_43650-0815" is renamed to "43650-0801_43650-0815_43650-081".
+#42 WARNING(ORCAP-36006): Part Name "CON20_0_HEADER10X2_2R54_HEADER10X2_2R54" is renamed to "CON20_0_HEADER10X2_2R54_HEADER1".
+#43 WARNING(ORCAP-36006): Part Name "CONN RCPT 4_HEADER4X1_2R54_HEADER4X1_2R54" is renamed to "CONN RCPT 4_HEADER4X1_2R54_HEAD".
+#44 WARNING(ORCAP-36006): Part Name "HDR_1_HEADER2X1_2R54_HEADER2X1_2R54" is renamed to "HDR_1_HEADER2X1_2R54_HEADER2X1_".
+#45 WARNING(ORCAP-36006): Part Name "IND_BEAD_0805_600OHM_1_LC0805_BEAD_GZ2012D102TF" is renamed to "IND_BEAD_0805_600OHM_1_LC0805_B".
+#46 WARNING(ORCAP-36006): Part Name "IND_BEAD_0805_600OHM_200MA_LC0805_BEAD_BLM21PG600" is renamed to "IND_BEAD_0805_600OHM_200MA_LC08".
+#47 WARNING(ORCAP-36006): Part Name "IND_BEAD_0805_600OHM_1_LC0805_BEAD_BLM21PG600" is renamed to "IND_BEAD_0805_600OHM_1_LC0805_1".
+#48 WARNING(ORCAP-36006): Part Name "MARKPOINT_MARKPOINT_R3_MARKPOINT" is renamed to "MARKPOINT_MARKPOINT_R3_MARKPOIN".
+#49 WARNING(ORCAP-36006): Part Name "MOS-P_0_SOT23_GSD_SI2347DS-T1-GE3" is renamed to "MOS-P_0_SOT23_GSD_SI2347DS-T1-G".
+#50 WARNING(ORCAP-36006): Part Name "MOS-P_0_TO252_GDS_SUD50P08-25L-E3_PMOS" is renamed to "MOS-P_0_TO252_GDS_SUD50P08-25L-".
+#51 WARNING(ORCAP-36006): Part Name "RESISTOR VAR_0_EVM3ESX50B15_EVM3ESX50B15/NI" is renamed to "RESISTOR VAR_0_EVM3ESX50B15_EVM".
+#52 WARNING(ORCAP-36006): Part Name "MK60DN512VLL10_4_LQFP-100_MK60DN512VLL10" is renamed to "MK60DN512VLL10_4_LQFP-100_MK60D".
+#53 WARNING(ORCAP-36006): Part Name "SN74LVC14APW_TSSOP14_SN74LVC14APW" is renamed to "SN74LVC14APW_TSSOP14_SN74LVC14A".
+#54 WARNING(ORCAP-36006): Part Name "DAC7311IDCKT_2_R-PDSO-G6_DAC7311IDCKT" is renamed to "DAC7311IDCKT_2_R-PDSO-G6_DAC731".
+#55 WARNING(ORCAP-36006): Part Name "SPX3819M5-L-1-2_SOT23-5_SPX3819M5-L-3-3/TR" is renamed to "SPX3819M5-L-1-2_SOT23-5_SPX3819".
+#56 WARNING(ORCAP-36006): Part Name "SPX3819M5-L-1-2_SOT23-5_SPX3819M5-L-5-0/TR" is renamed to "SPX3819M5-L-1-2_SOT23-5_SPX38_1".
+#57 WARNING(ORCAP-36006): Part Name "NUP2202W1_D_2_SC-88_NUP4202W1T2G" is renamed to "NUP2202W1_D_2_SC-88_NUP4202W1T2".
+#58 WARNING(ORCAP-36006): Part Name "SPX3819M5-L-1-2_SOT23-5_SPX3819M5-L-1-2/TR" is renamed to "SPX3819M5-L-1-2_SOT23-5_SPX38_2".
+#59 WARNING(ORCAP-36006): Part Name "PTH05000_1_PTH05000WAH_HPSD1233I2A" is renamed to "PTH05000_1_PTH05000WAH_HPSD1233".
+#60 WARNING(ORCAP-36006): Part Name "MAX3485ESA_0_SOIC8_MAX3488EESA/NI" is renamed to "MAX3485ESA_0_SOIC8_MAX3488EESA/".
+#61 WARNING(ORCAP-36006): Part Name "CEIT_C5000_0_SOIC-8_208_W25Q128FVSIG" is renamed to "CEIT_C5000_0_SOIC-8_208_W25Q128".
+#62 WARNING(ORCAP-36006): Part Name "SN74AUP1G32YZPR_1_SOT363_74LVC2G14GW" is renamed to "SN74AUP1G32YZPR_1_SOT363_74LVC2".
+#63 WARNING(ORCAP-36006): Part Name "KSZ8794CNXIC_1_QFN-64-8X8_KSZ8794CNXIC" is renamed to "KSZ8794CNXIC_1_QFN-64-8X8_KSZ87".
+#64 WARNING(ORCAP-36006): Part Name "SMD_OSC_5_OSC7X5_SG7050CAN-50M-TJGA" is renamed to "SMD_OSC_5_OSC7X5_SG7050CAN-50M-".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... G:\HUIYUAN COMMUNICATION\13云台交换机\CADENCE\MK60_YTAI_V41F\SCH\ALLEGRO/pstchip.dat
+
+Loading... G:\HUIYUAN COMMUNICATION\13云台交换机\CADENCE\MK60_YTAI_V41F\SCH\ALLEGRO/pstchip.dat
+
+Loading... G:\HUIYUAN COMMUNICATION\13云台交换机\CADENCE\MK60_YTAI_V41F\SCH\ALLEGRO/pstxprt.dat
+
+Loading... G:\HUIYUAN COMMUNICATION\13云台交换机\CADENCE\MK60_YTAI_V41F\SCH\ALLEGRO/pstxnet.dat
+packaging the design view...
