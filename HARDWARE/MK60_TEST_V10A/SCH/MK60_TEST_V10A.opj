@@ -3,7 +3,9 @@
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library"
-      (File "e:\cadencelib\xxxlzjxxx\xxxlzjxxx.olb"
+      (File "e:\cadencelib\orcad\hyoc.olb"
+        (Type "Schematic Library"))
+      (File "e:\cadencelib\orcad\ic.olb"
         (Type "Schematic Library")))
     (NoModify)
     (BuildFileAddedOrDeleted "x")
@@ -99,26 +101,19 @@
     (Board_sim_option "VHDL_flow")
     (DOCKED "FALSE")
     (DOCKING_POSITION "59420")
-    (File ".\mk60_ytai_v41f.dsn"
+    (File ".\mk60_test_v10a.dsn"
       (Type "Schematic Design")))
-  (Folder "Outputs"
-    (File ".\mk60_ytai_v41f.csv"
-      (Type "Report"))
-    (File ".\mk60_ytai_v41f.drc"
-      (Type "Report"))
-    (File ".\allegro\pstxnet.dat"
-      (Type "Report")
-      (DisplayName "pstxnet.dat"))
-    (File ".\allegro\pstxprt.dat"
-      (Type "Report")
-      (DisplayName "pstxprt.dat"))
-    (File ".\allegro\pstchip.dat"
-      (Type "Report")
-      (DisplayName "pstchip.dat"))
-    (File ".\mk60_ytai_v41f.bom"
-      (Type "Report")))
+  (Folder "Outputs")
   (Folder "Referenced Projects")
   (PartMRUSelector
+    ("CONN RCPT 3"
+      (FullPartName "CONN RCPT 3.Normal")
+      (LibraryName "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (MP2565DN-LF-Z
+      (FullPartName "MP2565DN-LF-Z.Normal")
+      (LibraryName "E:\CADENCELIB\ORCAD\IC.OLB")
+      (DeviceIndex "0"))
     ("CONN RCPT 6"
       (FullPartName "CONN RCPT 6.Normal")
       (LibraryName "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
@@ -204,14 +199,15 @@
     (FileView
       (Path "Design Resources")
       (Path "Design Resources"
-         "g:\huiyuan communication\13云台交换机\cadence\mk60_ytai_v41f\sch\mk60_ytai_v41f.dsn")
+         "E:\GitHub\MINI-BLENDER\HARDWARE\MK60_TEST_V10A\SCH\mk60_test_v10a.dsn")
       (Path "Design Resources"
-         "g:\huiyuan communication\13云台交换机\cadence\mk60_ytai_v41f\sch\mk60_ytai_v41f.dsn"
+         "E:\GitHub\MINI-BLENDER\HARDWARE\MK60_TEST_V10A\SCH\mk60_test_v10a.dsn"
          "MAIN")
       (Path "Design Resources" "Library")
       (Path "Outputs")
       (Select "Design Resources"
-         "g:\huiyuan communication\13云台交换机\cadence\mk60_ytai_v41f\sch\mk60_ytai_v41f.dsn"))
+         "E:\GitHub\MINI-BLENDER\HARDWARE\MK60_TEST_V10A\SCH\mk60_test_v10a.dsn"
+         "MAIN" "04 MOTOR"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -221,14 +217,47 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 78 1422 78 658")
-        (Scroll "1994 1803")
+        (Placement "44 0 1 -1 -1 -8 -31 78 1486 78 658")
+        (Scroll "666 109")
+        (Zoom "136")
+        (Occurrence "/"))
+      (Path
+         "E:\GITHUB\MINI-BLENDER\HARDWARE\MK60_TEST_V10A\SCH\MK60_TEST_V10A.DSN")
+      (Schematic "MAIN")
+      (Page "02 MCU"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1512 104 684")
+        (Scroll "-123 0")
+        (Zoom "68")
+        (Occurrence "/"))
+      (Path
+         "E:\GITHUB\MINI-BLENDER\HARDWARE\MK60_TEST_V10A\SCH\MK60_TEST_V10A.DSN")
+      (Schematic "MAIN")
+      (Page "03 DISPLAY&KEY"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 1538 130 710")
+        (Scroll "1132 646")
         (Zoom "272")
         (Occurrence "/"))
       (Path
-         "G:\HUIYUAN COMMUNICATION\13云台交换机\CADENCE\MK60_YTAI_V41F\SCH\MK60_YTAI_V41F.DSN")
+         "E:\GITHUB\MINI-BLENDER\HARDWARE\MK60_TEST_V10A\SCH\MK60_TEST_V10A.DSN")
       (Schematic "MAIN")
-      (Page "04 BLDC")))
+      (Page "04 MOTOR"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 208 1616 208 788")
+        (Scroll "-123 0")
+        (Zoom "68")
+        (Occurrence "/"))
+      (Path
+         "E:\GITHUB\MINI-BLENDER\HARDWARE\MK60_TEST_V10A\SCH\MK60_TEST_V10A.DSN")
+      (Schematic "MAIN")
+      (Page "05 POWER")))
   (LastUsedLibraryBrowseDirectory "E:\CadenceLib\orcad")
   (MPSSessionName "HUIYUAN-LZJ")
   (ISPCBBASICLICENSE "false"))
