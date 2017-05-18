@@ -1,0 +1,1710 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001May-18-2017 at 17:30:27 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='MK60_DRIVE_V10A';
+ POST_TIME='Feb 15 2016 19:53:59';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ B1 'BEEP_HC12085P_BEEP_12X7R6_BEEP':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16829078@XXXLZJXXX.BEEP_HC12085P.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16829078@xxxlzjxxx.\beep_hc12085p.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page4_ins16829078@xxxlzjxxx.\beep_hc12085p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C1 'CAP NP_2_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16645077@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16645077@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page3_ins16645077@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'CAP NP_2_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS11724572@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins11724572@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page3_ins11724572@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'CAP NP_2_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS11724588@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins11724588@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page3_ins11724588@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'CAP NP_2_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS11724604@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins11724604@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page3_ins11724604@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'CAP NP_2_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS11724620@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins11724620@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page3_ins11724620@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'CAP NP_2_CC0805_10UF_25V':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS11722262@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins11722262@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page3_ins11722262@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C15 'CAP NP_2_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS11723034@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins11723034@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page3_ins11723034@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C16 'CAP NP_2_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS11723018@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins11723018@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page3_ins11723018@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C17 'CAP NP_2_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16821154@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16821154@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page5_ins16821154@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C18 'CAP NP_2_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16821532@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16821532@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page5_ins16821532@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP NP_2_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16829628@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16829628@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page3_ins16829628@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C21 'CAP NP_2_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16820674@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16820674@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page5_ins16820674@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C22 'CAP NP_2_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16820664@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16820664@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page5_ins16820664@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C23 'CAP NP_2_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16820748@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16820748@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page5_ins16820748@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C24 'CAP NP_2_CC0805_10UF_25V':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16820793@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16820793@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page5_ins16820793@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C25 'CAP NP_2_CC0805_10UF_25V':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16820785@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16820785@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page5_ins16820785@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C26 'CAP NP_2_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16833353@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16833353@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page5_ins16833353@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C27 'CAP NP_2_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16822647@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16822647@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16822647@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C29 'CAP NP_2_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16650245@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16650245@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16650245@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP NP_2_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS11720143@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins11720143@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page3_ins11720143@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C32 'CAP NP_2_CC0603_150PF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16826140@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16826140@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16826140@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C33 'CAP NP_2_CC0603_100PF_50V/NI':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16826377@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16826377@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16826377@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C34 'CAP NP_2_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16832389@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16832389@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16832389@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C35 'CAP NP_2_CC1206_22UF_10V':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16832486@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16832486@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16832486@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C36 'CAP NP_2_CC1206_22UF_10V':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16832478@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16832478@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16832478@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C38 'CAP NP_2_CC0603_150PF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16832594@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16832594@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16832594@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C39 'CAP NP_2_CC0805_10UF_25V':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16629382@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16629382@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16629382@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP NP_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS11723106@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins11723106@discrete.\cap np.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page3_ins11723106@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C40 'CAP NP_2_CC0805_10UF_25V':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16629466@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16629466@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16629466@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C41 'CAP NP_2_CC0603_100PF_50V/NI':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16832616@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16832616@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16832616@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C42 'CAP NP_2_CC0805_10UF_25V':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16853139@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16853139@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16853139@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C43 'CAP NP_2_CC0805_10UF_25V':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16853175@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16853175@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16853175@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP NP_2_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS11722628@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins11722628@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page3_ins11722628@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP NP_2_CC0805_10UF_25V':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS11722344@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins11722344@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page3_ins11722344@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP NP_2_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS11720049@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins11720049@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page3_ins11720049@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C71 'CAPT_100UF_3528_6R3V_10%_LXXXX_':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16859276@EP_LF_ORCAD_LIBRARY1.CAPT_100UF_3528_6R3V_10%_LXXXX.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16859276@ep_lf_orcad_library1.\capt_100uf_3528_6r3v_10%_lxxxx.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page5_ins16859276@ep_lf_orcad_library1.\capt_100uf_3528_6r3v_10%_lxxxx.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C72 'CAPT_100UF_3528_6R3V_10%_LXXXX_':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16859619@EP_LF_ORCAD_LIBRARY1.CAPT_100UF_3528_6R3V_10%_LXXXX.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16859619@ep_lf_orcad_library1.\capt_100uf_3528_6r3v_10%_lxxxx.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page5_ins16859619@ep_lf_orcad_library1.\capt_100uf_3528_6r3v_10%_lxxxx.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C73 'CAPT_100UF_3528_6R3V_10%_LXXXX_':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16859764@EP_LF_ORCAD_LIBRARY1.CAPT_100UF_3528_6R3V_10%_LXXXX.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16859764@ep_lf_orcad_library1.\capt_100uf_3528_6r3v_10%_lxxxx.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16859764@ep_lf_orcad_library1.\capt_100uf_3528_6r3v_10%_lxxxx.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C74 'CAPT_100UF_3528_6R3V_10%_LXXXX_':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16859939@EP_LF_ORCAD_LIBRARY1.CAPT_100UF_3528_6R3V_10%_LXXXX.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16859939@ep_lf_orcad_library1.\capt_100uf_3528_6r3v_10%_lxxxx.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16859939@ep_lf_orcad_library1.\capt_100uf_3528_6r3v_10%_lxxxx.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C75 'CAPT_100UF_3528_6R3V_10%_LXXXX_':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16860165@EP_LF_ORCAD_LIBRARY1.CAPT_100UF_3528_6R3V_10%_LXXXX.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16860165@ep_lf_orcad_library1.\capt_100uf_3528_6r3v_10%_lxxxx.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16860165@ep_lf_orcad_library1.\capt_100uf_3528_6r3v_10%_lxxxx.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C76 'CAPT_100UF_3528_6R3V_10%_LXXXX_':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16860244@EP_LF_ORCAD_LIBRARY1.CAPT_100UF_3528_6R3V_10%_LXXXX.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16860244@ep_lf_orcad_library1.\capt_100uf_3528_6r3v_10%_lxxxx.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16860244@ep_lf_orcad_library1.\capt_100uf_3528_6r3v_10%_lxxxx.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C77 'CAP NP_2_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16860406@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16860406@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16860406@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C78 'CAP NP_2_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16861063@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16861063@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16861063@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAP NP_2_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS11724540@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins11724540@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page3_ins11724540@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP NP_2_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS11724556@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins11724556@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page3_ins11724556@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'DIODE13_7_SOD-123_1N4148W-TP':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16858844@MK60_YTAI_V41B.DIODE13_7.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16858844@mk60_ytai_v41b.\diode13_7.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page3_ins16858844@mk60_ytai_v41b.\diode13_7.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'DIODE13_7_SOD-123_1N4148W-TP':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16858856@MK60_YTAI_V41B.DIODE13_7.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16858856@mk60_ytai_v41b.\diode13_7.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page3_ins16858856@mk60_ytai_v41b.\diode13_7.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'P6SMB_0_DO-214AB_SMDJ54CA':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16822252@MK60_SWTH_V10A.P6SMB_0.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16822252@mk60_swth_v10a.\p6smb_0.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16822252@mk60_swth_v10a.\p6smb_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D4 'DIODE13_8_DO-214AC_SS24':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16824922@OPAMP_TEST_V10A.DIODE13_8.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16824922@opamp_test_v10a.\diode13_8.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16824922@opamp_test_v10a.\diode13_8.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D5 'DIODE13_8_DO-214AC_SS24':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16832524@OPAMP_TEST_V10A.DIODE13_8.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16832524@opamp_test_v10a.\diode13_8.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16832524@opamp_test_v10a.\diode13_8.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D7 'LED_4_LED0805_LED_GREEN':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16864777@F543_GPS_V10A.LED_4.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16864777@f543_gps_v10a.\led_4.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16864777@f543_gps_v10a.\led_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D9 'LED_4_LED0805_LED_GREEN':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16864785@F543_GPS_V10A.LED_4.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16864785@f543_gps_v10a.\led_4.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16864785@f543_gps_v10a.\led_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ DC1 'DC005_DC005_DC005':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16861777@XXXLZJXXX.DC005.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16861777@xxxlzjxxx.\dc005.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16861777@xxxlzjxxx.\dc005.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ FB1 'FB_L1812_BEAD_FBMH4532HM132-T':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS11712322@LIBRARY1.FB.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins11712322@library1.\fb.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins11712322@library1.\fb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ GDT1 'C6M09R_0_C6M09R_C6M09R':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16822213@KE64_SDCJ_V11A.C6M09R_0.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16822213@ke64_sdcj_v11a.\c6m09r_0.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16822213@ke64_sdcj_v11a.\c6m09r_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CON20_0_HEADER10X2_2R54_HEADER1':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS11720693@MK60_YTAI_V41B.CON20_0.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins11720693@mk60_ytai_v41b.\con20_0.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page3_ins11720693@mk60_ytai_v41b.\con20_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J10 'CONN RCPT 2_XH-2A_XH-2A':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16834228@CONNECTOR.CONN RCPT 2.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16834228@connector.\conn rcpt 2.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page5_ins16834228@connector.\conn rcpt 2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J11 'CONN RCPT 2_XH-2A_XH-2A':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16834401@CONNECTOR.CONN RCPT 2.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16834401@connector.\conn rcpt 2.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page5_ins16834401@connector.\conn rcpt 2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J12 'CONN RCPT 2_XH-2A_XH-2A':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16834437@CONNECTOR.CONN RCPT 2.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16834437@connector.\conn rcpt 2.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page5_ins16834437@connector.\conn rcpt 2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J14 'WJ2EDGRC-5_0.08-2P_WJ2EDGRC-5R0':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16861506@I283_SDM1_V11A.WJ2EDGRC-5_0.08-2P.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16861506@i283_sdm1_v11a.\wj2edgrc-5_0.08-2p.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16861506@i283_sdm1_v11a.\wj2edgrc-5_0.08-2p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J15 'WJ2EDGRC-5_0.08-2P_WJ2EDGRC-5R0':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16862039@I283_SDM1_V11A.WJ2EDGRC-5_0.08-2P.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16862039@i283_sdm1_v11a.\wj2edgrc-5_0.08-2p.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16862039@i283_sdm1_v11a.\wj2edgrc-5_0.08-2p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'CONN RCPT 4_HEADER4X1_2R54_HEAD':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16643455@CONNECTOR.CONN RCPT 4.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16643455@connector.\conn rcpt 4.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page3_ins16643455@connector.\conn rcpt 4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'CONN RCPT 3_XH-3A_XH-3A':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16829428@CONNECTOR.CONN RCPT 3.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16829428@connector.\conn rcpt 3.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page3_ins16829428@connector.\conn rcpt 3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J4 'HDR_1_HEADER2X1_2R54_HEADER2X1_':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS11722438@MK60_YTAI_V41B.HDR_1.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins11722438@mk60_ytai_v41b.\hdr_1.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page3_ins11722438@mk60_ytai_v41b.\hdr_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J5 'CONN RCPT 12_HEADER12X1_2R54_HE':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16852194@CONNECTOR.CONN RCPT 12.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16852194@connector.\conn rcpt 12.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page4_ins16852194@connector.\conn rcpt 12.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J6 'WJ2EDGRC-5.08-4P_WJ2EDGRC-5R08-':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16821087@I283_SDM1_V11A.WJ2EDGRC-5.08-4P.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16821087@i283_sdm1_v11a.\wj2edgrc-5.08-4p.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page5_ins16821087@i283_sdm1_v11a.\wj2edgrc-5.08-4p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J7 'CONN RCPT 2_XH-2A_XH-2A':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16833655@CONNECTOR.CONN RCPT 2.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16833655@connector.\conn rcpt 2.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page5_ins16833655@connector.\conn rcpt 2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J8 'CONN RCPT 2_XH-2A_XH-2A':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16833963@CONNECTOR.CONN RCPT 2.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16833963@connector.\conn rcpt 2.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page5_ins16833963@connector.\conn rcpt 2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J9 'CONN RCPT 2_XH-2A_XH-2A':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16834094@CONNECTOR.CONN RCPT 2.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16834094@connector.\conn rcpt 2.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page5_ins16834094@connector.\conn rcpt 2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'IND_BEAD_0805_600OHM_1_LC0805_B':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS11722890@MK60_YTAI_V41B.IND_BEAD_0805_600OHM_1.CONVERT(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins11722890@mk60_ytai_v41b.\ind_bead_0805_600ohm_1.convert\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page3_ins11722890@mk60_ytai_v41b.\ind_bead_0805_600ohm_1.convert\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L2 'IND_BEAD_0805_600OHM_1_LC0805_B':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS11722806@MK60_YTAI_V41B.IND_BEAD_0805_600OHM_1.CONVERT(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins11722806@mk60_ytai_v41b.\ind_bead_0805_600ohm_1.convert\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page3_ins11722806@mk60_ytai_v41b.\ind_bead_0805_600ohm_1.convert\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L3 'IND_BEAD_0805_600OHM_1_LC0805_B':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS11722700@MK60_YTAI_V41B.IND_BEAD_0805_600OHM_1.CONVERT(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins11722700@mk60_ytai_v41b.\ind_bead_0805_600ohm_1.convert\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page3_ins11722700@mk60_ytai_v41b.\ind_bead_0805_600ohm_1.convert\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L4 'IND_BEAD_0805_600OHM_1_LC0805_B':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS11722824@MK60_YTAI_V41B.IND_BEAD_0805_600OHM_1.CONVERT(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins11722824@mk60_ytai_v41b.\ind_bead_0805_600ohm_1.convert\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page3_ins11722824@mk60_ytai_v41b.\ind_bead_0805_600ohm_1.convert\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L5 '744822222_0_ACM9070_ACM9070-701':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16822203@SIM8909_TEST_V10A.744822222_0.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16822203@sim8909_test_v10a.\744822222_0.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16822203@sim8909_test_v10a.\744822222_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L6 'INDUCTOR_0_SWPA6028_SWPA6040S22':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16822634@DAMP_V10A.INDUCTOR_0.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16822634@damp_v10a.\inductor_0.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16822634@damp_v10a.\inductor_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L7 'INDUCTOR_0_SWPA6028_SWPA6028S15':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16832364@DAMP_V10A.INDUCTOR_0.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16832364@damp_v10a.\inductor_0.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16832364@damp_v10a.\inductor_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH1 'HOLD_1_HOLD250D134_HOLD-M3':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS12064512@BCM95398R8G_WS_951219.HOLD_1.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins12064512@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins12064512@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH2 'HOLD_1_HOLD250D134_HOLD-M3':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS12064438@BCM95398R8G_WS_951219.HOLD_1.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins12064438@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins12064438@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH3 'HOLD_1_HOLD250D134_HOLD-M3':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS12064498@BCM95398R8G_WS_951219.HOLD_1.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins12064498@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins12064498@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH4 'HOLD_1_HOLD250D134_HOLD-M3':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS12064452@BCM95398R8G_WS_951219.HOLD_1.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins12064452@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins12064452@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MP1 'MARKPOINT_MARKPOINT_R3_MARKPOIN':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS12380224@XXXLZJXXX.MARKPOINT.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins12380224@xxxlzjxxx.\markpoint.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins12380224@xxxlzjxxx.\markpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MP2 'MARKPOINT_MARKPOINT_R3_MARKPOIN':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS12380238@XXXLZJXXX.MARKPOINT.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins12380238@xxxlzjxxx.\markpoint.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins12380238@xxxlzjxxx.\markpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 'MOS-P_0_SOT23_GSD_AO3415':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16858544@MK60_YTAI_V41B.MOS-P_0.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16858544@mk60_ytai_v41b.\mos-p_0.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page3_ins16858544@mk60_ytai_v41b.\mos-p_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q2 'L14G1/TO_2_SOT23_123_S9013LT1':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16858691@MK60_YTAI_V41B.L14G1/TO_2.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16858691@mk60_ytai_v41b.\l14g1/to_2.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page3_ins16858691@mk60_ytai_v41b.\l14g1/to_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q3 'L14G1/TO_1_SOT23_123_S8050_SOT2':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16829041@MK60_SWTH_V10B.L14G1/TO_1.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16829041@mk60_swth_v10b.\l14g1/to_1.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page4_ins16829041@mk60_swth_v10b.\l14g1/to_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q4 'MOS-P_0_TO252_GDS_SUD50P08-25L-':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16827154@MK60_YTAI_V41B.MOS-P_0.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16827154@mk60_ytai_v41b.\mos-p_0.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16827154@mk60_ytai_v41b.\mos-p_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q5 'L14G1/TO_2_SOT23_123_BCV47_NPN':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16798242@MK60_YTAI_V41B.L14G1/TO_2.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16798242@mk60_ytai_v41b.\l14g1/to_2.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16798242@mk60_ytai_v41b.\l14g1/to_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_10K_4_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS11720195@MK60_YTAI_V41B.R_10K_4.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins11720195@mk60_ytai_v41b.\r_10k_4.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page3_ins11720195@mk60_ytai_v41b.\r_10k_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'R_GENERIC_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16611111@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16611111@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page3_ins16611111@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'R_GENERIC_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16611135@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16611135@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page3_ins16611135@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'R_GENERIC_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16779863@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16779863@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page3_ins16779863@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'R_GENERIC_RC0603_100K':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16779876@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16779876@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page3_ins16779876@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'R_GENERIC_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS11722414@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins11722414@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page3_ins11722414@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'R_GENERIC_RC0603_1K':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS11722540@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins11722540@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page3_ins11722540@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'R_GENERIC_RC0603_1K':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS11722468@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins11722468@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page3_ins11722468@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'R_GENERIC_RC0603_267K':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS11722580@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins11722580@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page3_ins11722580@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R18 'R_GENERIC_RC0603_47K':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS11722112@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins11722112@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page3_ins11722112@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R19 'R_GENERIC_RC0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS11722286@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins11722286@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page3_ins11722286@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_10K_4_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS11720215@MK60_YTAI_V41B.R_10K_4.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins11720215@mk60_ytai_v41b.\r_10k_4.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page3_ins11720215@mk60_ytai_v41b.\r_10k_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R20 'R_GENERIC_RC0603_1M':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS11722246@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins11722246@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page3_ins11722246@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R21 'R_GENERIC_RC0603_1K':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16829094@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16829094@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page4_ins16829094@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R22 'R_GENERIC_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16829104@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16829104@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page4_ins16829104@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R23 'R_10K_2_RC2512_0R47':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16820629@MK60_YTAI_V41A.R_10K_2.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16820629@mk60_ytai_v41a.\r_10k_2.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page5_ins16820629@mk60_ytai_v41a.\r_10k_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R24 'R_10K_2_RC2512_0R47':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16820619@MK60_YTAI_V41A.R_10K_2.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16820619@mk60_ytai_v41a.\r_10k_2.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page5_ins16820619@mk60_ytai_v41a.\r_10k_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R25 'R_GENERIC_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16820866@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16820866@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page5_ins16820866@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R26 'R_GENERIC_RC0603_0R':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16820904@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16820904@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page5_ins16820904@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R27 'R_GENERIC_RC0603_0R/NI':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16820914@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16820914@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page5_ins16820914@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R28 'R_GENERIC_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16820874@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16820874@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page5_ins16820874@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_10K_4_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS11720235@MK60_YTAI_V41B.R_10K_4.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins11720235@mk60_ytai_v41b.\r_10k_4.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page3_ins11720235@mk60_ytai_v41b.\r_10k_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R30 'R_GENERIC_RC0603_1K':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16820981@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16820981@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page5_ins16820981@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R31 'R_GENERIC_RC0603_1K':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16820989@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16820989@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page5_ins16820989@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R32 'R_GENERIC_RC0603_1K':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16820997@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16820997@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page5_ins16820997@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R33 'R_GENERIC_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16821025@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16821025@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page5_ins16821025@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R34 'R_GENERIC_RC0603_0R':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16820817@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16820817@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page5_ins16820817@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R35 'R_GENERIC_RC0603_10K/NI':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16820837@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16820837@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page5_ins16820837@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R36 'R_GENERIC_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16821133@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16821133@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page5_ins16821133@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R37 'R_GENERIC_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16833680@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16833680@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page5_ins16833680@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R38 'R_GENERIC_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16833975@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16833975@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page5_ins16833975@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R39 'R_GENERIC_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16834106@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16834106@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page5_ins16834106@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_10K_4_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS11720175@MK60_YTAI_V41B.R_10K_4.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins11720175@mk60_ytai_v41b.\r_10k_4.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page3_ins11720175@mk60_ytai_v41b.\r_10k_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R40 'R_GENERIC_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16834240@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16834240@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page5_ins16834240@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R41 'R_GENERIC_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16834409@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16834409@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page5_ins16834409@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R42 'R_GENERIC_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16834453@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16834453@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page5_ins16834453@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R43 'R_GENERIC_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16798189@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16798189@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16798189@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R44 'R_GENERIC_RC0603_20K':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16851677@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16851677@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16851677@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R45 'R_GENERIC_RC0603_1K':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16798207@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16798207@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16798207@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R46 'R_GENERIC_RC0603_47K':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16798145@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16798145@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16798145@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R47 'R_GENERIC_RC0603_47K':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16650265@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16650265@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16650265@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R48 'R_GENERIC_RC0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16650281@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16650281@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16650281@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R49 'R_GENERIC_RC0603_210K':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16824246@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16824246@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16824246@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_GENERIC_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16645859@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16645859@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page3_ins16645859@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R50 'R_GENERIC_RC0603_200K':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16823207@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16823207@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16823207@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R51 'R_GENERIC_RC0603_40.2K':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16824254@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16824254@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16824254@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R52 'R_GENERIC_RC0603_100K':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16826153@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16826153@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16826153@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R53 'R_GENERIC_RC0603_100K':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16825869@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16825869@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16825869@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R54 'R_GENERIC_RC0603_36.5K':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16825861@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16825861@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16825861@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R55 'R_GENERIC_RC0603_210K':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16832462@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16832462@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16832462@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R56 'R_GENERIC_RC0603_200K':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16832425@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16832425@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16832425@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R57 'R_GENERIC_RC0603_40.2K':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16832470@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16832470@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16832470@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R58 'R_GENERIC_RC0603_100K':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16832586@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16832586@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16832586@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R59 'R_GENERIC_RC0603_100K':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16832558@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16832558@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16832558@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R_GENERIC_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16830130@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16830130@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page3_ins16830130@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R60 'R_GENERIC_RC0603_36.5K':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16832546@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16832546@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16832546@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'R_10K_4_RC0603_0R/NI':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS11719987@MK60_YTAI_V41B.R_10K_4.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins11719987@mk60_ytai_v41b.\r_10k_4.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page3_ins11719987@mk60_ytai_v41b.\r_10k_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R72 'R_GENERIC_RC0603_20K':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16864793@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16864793@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16864793@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R73 'R_GENERIC_RC0603_1K':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16864801@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16864801@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16864801@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'R_10K_4_RC0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS11720079@MK60_YTAI_V41B.R_10K_4.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins11720079@mk60_ytai_v41b.\r_10k_4.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page3_ins11720079@mk60_ytai_v41b.\r_10k_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'R_10K_4_RC0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS11720103@MK60_YTAI_V41B.R_10K_4.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins11720103@mk60_ytai_v41b.\r_10k_4.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page3_ins11720103@mk60_ytai_v41b.\r_10k_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ RP1 'RESISTOR VAR_0_EVM3ESX50B15_EVM':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16820855@MK60_YTAI_V41A.RESISTOR VAR_0.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16820855@mk60_ytai_v41a.\resistor var_0.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page5_ins16820855@mk60_ytai_v41a.\resistor var_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ S1 'SW PUSHBUTTON_0_KEY_SMD_2_KEY':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS11722774@MK60_SWTH_V10A.SW PUSHBUTTON_0.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins11722774@mk60_swth_v10a.\sw pushbutton_0.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page3_ins11722774@mk60_swth_v10a.\sw pushbutton_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW11 'SW DIP-4_0_DM-04-V_DM-04-V':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16861442@STEP_TEST_V10A.SW DIP-4_0.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16861442@step_test_v10a.\sw dip-4_0.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page5_ins16861442@step_test_v10a.\sw dip-4_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP1 'TESTPOINT_TP-0R75_TESTPOINT':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS12098118@XXXLZJXXX.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins12098118@xxxlzjxxx.\testpoint.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page3_ins12098118@xxxlzjxxx.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP2 'TESTPOINT_TP-0R75_TESTPOINT':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16629308@XXXLZJXXX.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16629308@xxxlzjxxx.\testpoint.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16629308@xxxlzjxxx.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP3 'TESTPOINT_TP-0R75_TESTPOINT':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16853105@XXXLZJXXX.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16853105@xxxlzjxxx.\testpoint.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16853105@xxxlzjxxx.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'MK60DN512VLL10_4_LQFP-100_MK60D':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS11705097@MK60_YTAI_V41B.MK60DN512VLL10_4.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins11705097@mk60_ytai_v41b.\mk60dn512vll10_4.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page3_ins11705097@mk60_ytai_v41b.\mk60dn512vll10_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U10 'SPX3819M5-L-1-2_SOT23-5_SPX3819':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16629344@XXXLZJXXX.SPX3819M5-L-1-2.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16629344@xxxlzjxxx.\spx3819m5-l-1-2.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16629344@xxxlzjxxx.\spx3819m5-l-1-2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U11 'SPX3819M5-L-1-2_SOT23-5_SPX3819':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16853122@XXXLZJXXX.SPX3819M5-L-1-2.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16853122@xxxlzjxxx.\spx3819m5-l-1-2.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16853122@xxxlzjxxx.\spx3819m5-l-1-2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'TMP_0_SOIC8_AT24C512C-SSHM-T':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS11720489@MK60_YTAI_V41B.TMP_0.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins11720489@mk60_ytai_v41b.\tmp_0.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page3_ins11720489@mk60_ytai_v41b.\tmp_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'CEIT_C5000_0_SOIC-8_208_W25Q128':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16644305@MK60_SUID_V10A.CEIT_C5000_0.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16644305@mk60_suid_v10a.\ceit_c5000_0.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page3_ins16644305@mk60_suid_v10a.\ceit_c5000_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'SP706T_1_SOIC8_SP706REN':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS11722734@MK60_YTAI_V41B.SP706T_1.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins11722734@mk60_ytai_v41b.\sp706t_1.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page3_ins11722734@mk60_ytai_v41b.\sp706t_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U5 'SN74AUP1G32YZPR_1_SOT363_74LVC2':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS11722604@MK60_YTAI_V41B.SN74AUP1G32YZPR_1.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins11722604@mk60_ytai_v41b.\sn74aup1g32yzpr_1.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page3_ins11722604@mk60_ytai_v41b.\sn74aup1g32yzpr_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U6 'A4988SETTR-T_QFN-28_A4988SETTR-':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16821448@XXXLZJXXX.A4988SETTR-T.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16821448@xxxlzjxxx.\a4988settr-t.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page5_ins16821448@xxxlzjxxx.\a4988settr-t.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U7 'SN74LVC14APW_TSSOP14_SN74LVC14A':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16832067@XXXLZJXXX.SN74LVC14APW.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16832067@xxxlzjxxx.\sn74lvc14apw.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page5_ins16832067@xxxlzjxxx.\sn74lvc14apw.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U8 'MP2565DN-LF-Z_SOIC8-PAD_MP2565D':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16822615@IC.MP2565DN-LF-Z.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16822615@ic.\mp2565dn-lf-z.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16822615@ic.\mp2565dn-lf-z.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U9 'MP2565DN-LF-Z_SOIC8-PAD_MP2565D':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16832372@IC.MP2565DN-LF-Z.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16832372@ic.\mp2565dn-lf-z.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16832372@ic.\mp2565dn-lf-z.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ VSR1 'R_0_14D220K_10D560K':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16822228@MK60N_001.R_0.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16822228@mk60n_001.\r_0.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16822228@mk60n_001.\r_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ VSR2 'R_0_14D220K_10D560K':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16822236@MK60N_001.R_0.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16822236@mk60n_001.\r_0.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16822236@mk60n_001.\r_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ VSR3 'R_0_14D220K_10D560K':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS16822244@MK60N_001.R_0.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins16822244@mk60n_001.\r_0.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page6_ins16822244@mk60n_001.\r_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y1 'SMD_OSC_5_OSC7X5_SG7050CAN-50M-':;
+
+SECTION_NUMBER 1
+ '@MK60_DRIVE_V10A.MAIN(SCH_1):INS11720293@MK60_YTAI_V41B.SMD_OSC_5.NORMAL(CHIPS)':
+ C_PATH='@mk60_drive_v10a.main(sch_1):ins11720293@mk60_ytai_v41b.\smd_osc_5.normal\(chips)',
+ P_PATH='@mk60_drive_v10a.main(sch_1):page3_ins11720293@mk60_ytai_v41b.\smd_osc_5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.
